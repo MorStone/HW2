@@ -26,4 +26,4 @@
 - Make topping: Combine sour cream and sugar; spread over cake. Cover and refrigerate at least 4 hours.
 
 
-![Cheese Cake](
+![Cheese Cake](https://github.com/MorStone/HW2/blob/master/Cheese%20Cake.jpg)
