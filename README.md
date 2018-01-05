@@ -1,28 +1,29 @@
 # Cheese Cake Recipe
 
 ## Ingredients
-###Crust:
+### Crust
 1. 1/2 cups graham cracker crumbs
 2. 1/4 teaspoon ground cinnamon
-3. 1/3 cup melted margarine 
-###FILLING: 
+3. 1/3 cup melted margarine
+### Filling 
 4. 4 (8 oz.) packages cream cheese, softened 
-5. 1 1/4 cups sugar 1/2 cup sour cream 
+5. 1 1/4 cups sugar 1/2 cup sour cream
+### Topping 
 6. 2 teaspoons vanilla extract 
 7. 5 large eggs 
-###TOPPING: 
 8. 1/2 cup sour cream 
 9. 2 teaspoons sugar
 
--Preheat oven to 475°F. Place a large pan filled with 1/2 inch water in oven.
+## Instructions
+- Preheat oven to 475°F. Place a large pan filled with 1/2 inch water in oven.
 
--Make crust: Mix graham cracker crumbs and cinnamon; add margarine. Press crust onto bottom and 2/3 of the way up a 9-inch springform pan lined with parchment. Wrap a large piece of foil around bottom of pan. Freeze until filling is prepared.
+- Make crust: Mix graham cracker crumbs and cinnamon; add margarine. Press crust onto bottom and 2/3 of the way up a 9-inch springform pan lined with parchment. Wrap a large piece of foil around bottom of pan. Freeze until filling is prepared.
 
--Make filling: Use an electric mixer to mix cream cheese, sugar, sour cream and vanilla. Blend until smooth and creamy. Scrape down sides of bowl. Whisk eggs in a bowl; add to cream cheese mixture. Blend just until eggs are incorporated.
+- Make filling: Use an electric mixer to mix cream cheese, sugar, sour cream and vanilla. Blend until smooth and creamy. Scrape down sides of bowl. Whisk eggs in a bowl; add to cream cheese mixture. Blend just until eggs are incorporated.
 
--Remove crust from freezer and pour in filling. Carefully place cheesecake into preheated water bath. Bake for 12 minutes; turn oven to 350°F and bake until top of cheesecake turns golden, 50 to 60 minutes. Remove cake to a wire rack to cool.
+- Remove crust from freezer and pour in filling. Carefully place cheesecake into preheated water bath. Bake for 12 minutes; turn oven to 350°F and bake until top of cheesecake turns golden, 50 to 60 minutes. Remove cake to a wire rack to cool.
 
--Make topping: Combine sour cream and sugar; spread over cake. Cover and refrigerate at least 4 hours.
+- Make topping: Combine sour cream and sugar; spread over cake. Cover and refrigerate at least 4 hours.
 
 
 ![Cheese Cake](
